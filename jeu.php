@@ -19,13 +19,13 @@
 <form method="post" action="participer.php">
 
     <label for="mailInput">Mail</label>
-    <input type="email" class="form-control" name="mailInput" placeholder="Saisir votre mail" id=mail>
+    <input type="email" class="form-control" name="mailInput" placeholder="Saisir votre mail">
 
     <label for="nameInput">Nom</label>
-    <input type="text" class="form-control" name="nameInput" placeholder="Saisir votre nom" id=name>
+    <input type="text" class="form-control" name="nameInput" placeholder="Saisir votre nom">
 
     <label for="surnameInput">Prénom</label>
-    <input type="text" class="form-control" name="surnameInput" placeholder="Saisir votre prénom" id=surname>
+    <input type="text" class="form-control" name="surnameInput" placeholder="Saisir votre prénom">
 
     <button type="submit" class="btn btn-primary">Envoyer</button>
 
